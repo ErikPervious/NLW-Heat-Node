@@ -15,6 +15,7 @@
 <h1 id="title">💻 Projeto</h1>
 
 <p>&nbsp;Na trilha Impulse do NLW Heat desenvolvemos uma aplicação onde o usuário pode enviar e ver expectativas sobre o <a href="https://dowhile.io">DoWhile</a>. Para Armezenar as expectativas criamos o nosso BackEnd usando <a href="https://nodejs.org">NodeJS</a> com o <a href="https://prisma.io">Prisma</a>.</p>
+<p>&nbsp;Para Armezenar as expectativas criamos o nosso BackEnd usando <a href="https://nodejs.org">NodeJS</a> com o <a href="https://prisma.io">Prisma</a> e para que as mensagens fiquem atualizando em tempo real usamos o <a href="https://socket.io">Socket.io</a>.</p>
 
 <h2 id="preview">🔖 Layout</h2>
 
